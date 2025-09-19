@@ -155,7 +155,7 @@
         
         /* Hero Section */
         .hero {
-            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://media.discordapp.net/attachments/773624653172310097/1407010702303957065/image.jpg.jpg?ex=68a48c54&is=68a33ad4&hm=2fe9a77264174e5428953b6ff3a682ac543174c16713c733ecb31649d8e79bf2&=&format=webp&width=1116&height=838') no-repeat center center/cover;
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://cdn.discordapp.com/attachments/773624653172310097/1407010702303957065/image.jpg.jpg?ex=68cebc54&is=68cd6ad4&hm=2d78762b98d801d2ab4bb62524c6f51a2cdf377622f22570d2a8cbd2b90783c8&') no-repeat center center/cover;
             height: 100vh;
             display: flex;
             align-items: center;
@@ -620,4 +620,5 @@
             .section-title {
                 font-size: 2rem;
             }
+
         }
